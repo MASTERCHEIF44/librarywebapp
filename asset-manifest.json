@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/librarywebapp/static/js/main.c063037a.js",
+    "static/js/453.16337f57.chunk.js": "/librarywebapp/static/js/453.16337f57.chunk.js",
+    "index.html": "/librarywebapp/index.html",
+    "main.c063037a.js.map": "/librarywebapp/static/js/main.c063037a.js.map",
+    "453.16337f57.chunk.js.map": "/librarywebapp/static/js/453.16337f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c063037a.js"
+  ]
+}
